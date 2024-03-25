@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dphlean/Duckies11#readme",
   "dependencies": {
+    "@xny10/proxy-from-env": "^1.3.0",
     "duckies11": "^1.0.1"
   }
 }
