@@ -1,0 +1,26 @@
+{
+  "name": "duckies11",
+  "version": "1.0.1",
+  "description": "duckiestea",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm duckies11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dphlean/Duckies11.git"
+  },
+  "keywords": [
+    "duckeis",
+    "tea"
+  ],
+  "author": "dphlean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dphlean/Duckies11/issues"
+  },
+  "homepage": "https://github.com/dphlean/Duckies11#readme",
+  "dependencies": {
+    "duckies11": "^1.0.1"
+  }
+}
